@@ -1,0 +1,9 @@
+D:\work projects\demo_text_box\demo_text_box\bin\Debug\demo_text_box.exe.config
+D:\work projects\demo_text_box\demo_text_box\obj\Debug\demo_text_box.csprojResolveAssemblyReference.cache
+D:\work projects\demo_text_box\demo_text_box\obj\Debug\demo_text_box.Form1.resources
+D:\work projects\demo_text_box\demo_text_box\obj\Debug\demo_text_box.Properties.Resources.resources
+D:\work projects\demo_text_box\demo_text_box\obj\Debug\demo_text_box.csproj.GenerateResource.Cache
+D:\work projects\demo_text_box\demo_text_box\bin\Debug\demo_text_box.exe
+D:\work projects\demo_text_box\demo_text_box\bin\Debug\demo_text_box.pdb
+D:\work projects\demo_text_box\demo_text_box\obj\Debug\demo_text_box.exe
+D:\work projects\demo_text_box\demo_text_box\obj\Debug\demo_text_box.pdb
